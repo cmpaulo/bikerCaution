@@ -8,6 +8,8 @@ This project shows a different option for taking care of the child when they bot
  ESPpai >> ESPfilho2
  ESPpai >> ESPfilho3
  
+![](bikersPson.png)
+ 
 # ESPpai 
 
  Vai terá sua rede propria "wifi-pai", o adaptador wifi fica monitorando a potencia do sinal dos receptores,("wifi-filho1", "wifi-filho2", "wifi-filho3")  sincronizados, a pontencia do sinal mais fraca indica que a criança esta muito longe do pai. A distancia que o filho está do pai, cria uma interação do ESPpai com o pai, alertando que os filhos estão muito longe, este alerta é feito a partir de uma vibraçao do equipamento (ESPpai). Este equipamento pode ser sincronizado com o celular, ou ser usado de maneira que o pai/responsável note a vibração.
